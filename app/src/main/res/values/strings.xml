@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string name="pilih_provinsi">pilih_provinsi</string>
+    <string name="provinsi">provinsi</string>
+    <string name="jabatan">jabatan</string>
+    <string name="kabupaten">kabupaten</string>
+    <string name="kecamatan">kecamatan</string>
+    <string name="kelurahan">kelurahan</string>
+    <string-array name="nama_provinsi" >
+
+        <item> Aceh </item>
+        <item> Sumatera Utara</item>
+        <item> Sumatera Barat</item>
+        <item> Sumatera Selatan</item>
+        <item> DKI Jakarta</item>
+        <item> Jawa Barat</item>
+        <item> Jawa Timur</item>
+        <item> Jawa Tengah</item>
+        <item> DI Yogyakarta</item>
+        <item> Kalimantan Utara</item>
+        <item> Kalimantan Selatan</item>
+        <item> Kalimantan Barat</item>
+
+    </string-array>
+
+    <string-array name="jabatan" >
+        <item> Gubernur </item>
+        <item> Bupati </item>
+        <item> Kecamatan </item>
+        <item> Kelurahan </item>
+        <item> Padukuhan </item>
+    </string-array>
+
+    <string-array name="kabupaten" >
+        <item> Kota</item>
+        <item> Sleman</item>
+        <item> Bantul</item>
+        <item> KulonProgo</item>
+        <item> Gunungkidul</item>
+
+    </string-array>
+
+    <string-array name="kecamatan" >
+        <item> Depok</item>
+        <item> Condongcatur</item>
+        <item> Bantulan</item>
+        <item> godean</item>
+        <item> kotabaru</item>
+
+    </string-array>
+
+    <string-array name="kelurahan" >
+        <item> soropadan</item>
+        <item> banyumili</item>
+        <item> banyuasin</item>
+        <item> banyu</item>
+
+
+    </string-array>
+
+</resources>

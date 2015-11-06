@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">spinner</string>
     <string name="pilih_provinsi">pilih_provinsi</string>
-    <string name="provinsi">provinsi</string>
-    <string name="jabatan">jabatan</string>
-    <string name="kabupaten">kabupaten</string>
-    <string name="kecamatan">kecamatan</string>
-    <string name="kelurahan">kelurahan</string>
+    <string name="provinsi">Provinsi</string>
+    <string name="jabatan">Jabatan</string>
+    <string name="kabupaten">Kabupaten</string>
+    <string name="kecamatan">Kecamatan</string>
+    <string name="kelurahan">Kelurahan</string>
     <string-array name="nama_provinsi" >
 
         <item> Aceh </item>
